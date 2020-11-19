@@ -11,7 +11,7 @@ Chat application called ‘Ranger Chat Application’ has been created with grap
     <td><img src="https://github.com/JaberBabaki/socket-chat/blob/master/screenshot/C%23/1.jpg" width="100%" height="600"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/JaberBabaki/socket-chat/blob/master/screenshot/android/1.png" width="100%" height="400"/></td>
-    <td><img src="https://github.com/JaberBabaki/socket-chat/blob/master/screenshot/android/2.png" width="100%" height="400"/></td>
+    <td><img src="https://github.com/JaberBabaki/socket-chat/blob/master/screenshot/android/1.png" /></td>
+    <td><img src="https://github.com/JaberBabaki/socket-chat/blob/master/screenshot/android/2.png"/></td>
   </tr>
 </table>
