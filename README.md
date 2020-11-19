@@ -1,5 +1,5 @@
 # socket-chat
->winnter 2015
+>winter 2015
 
 # description
 Chat application called ‘Ranger Chat Application’ has been created with graphic user interface (GUI) capable of exchanging text chat between two or multiple computers over the network using Android socket programming and C# has been created
