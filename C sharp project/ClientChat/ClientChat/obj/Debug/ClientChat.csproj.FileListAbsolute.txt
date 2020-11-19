@@ -1,0 +1,30 @@
+G:\project\Window\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+G:\project\Window\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+G:\project\Window\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.frmMain.resources
+G:\project\Window\ClientChat\ClientChat\obj\Debug\ClientChat.MessageBoxe.resources
+G:\project\Window\chat by socket\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+G:\project\Window\chat by socket\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+G:\project\Window\chat by socket\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.frmMain.resources
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.MessageBoxe.resources
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+G:\project\Window\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.frmMain.resources
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.MessageBoxe.resources
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+E:\daneshgah\karshnasi\3\نصب و راه اندازی شبکه\Socket\پروژه اصلی\C#\wifiChat_C#\chat by socket\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
